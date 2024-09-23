@@ -1,30 +1,30 @@
 {
   "format": 1,
   "restore": {
-    "E:\\UnityRep\\InteractiveModel-ManagerSys\\ProjectManagementSystem\\ProjectManagementSystem\\ProjectManagementSystem.csproj": {}
+    "E:\\UnityRep\\ManagerSys\\ProjectManagementSystem\\ProjectManagementSystem.csproj": {}
   },
   "projects": {
-    "E:\\UnityRep\\InteractiveModel-ManagerSys\\ProjectManagementSystem\\ProjectManagementSystem\\ProjectManagementSystem.csproj": {
+    "E:\\UnityRep\\ManagerSys\\ProjectManagementSystem\\ProjectManagementSystem.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\UnityRep\\InteractiveModel-ManagerSys\\ProjectManagementSystem\\ProjectManagementSystem\\ProjectManagementSystem.csproj",
+        "projectUniqueName": "E:\\UnityRep\\ManagerSys\\ProjectManagementSystem\\ProjectManagementSystem.csproj",
         "projectName": "ProjectManagementSystem",
-        "projectPath": "E:\\UnityRep\\InteractiveModel-ManagerSys\\ProjectManagementSystem\\ProjectManagementSystem\\ProjectManagementSystem.csproj",
+        "projectPath": "E:\\UnityRep\\ManagerSys\\ProjectManagementSystem\\ProjectManagementSystem.csproj",
         "packagesPath": "C:\\Users\\Den-O\\.nuget\\packages\\",
-        "outputPath": "E:\\UnityRep\\InteractiveModel-ManagerSys\\ProjectManagementSystem\\ProjectManagementSystem\\obj\\",
+        "outputPath": "E:\\UnityRep\\ManagerSys\\ProjectManagementSystem\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Den-O\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
-          "net5.0"
+          "net8.0"
         ],
         "sources": {
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "net5.0": {
-            "targetAlias": "net5.0",
+          "net8.0": {
+            "targetAlias": "net8.0",
             "projectReferences": {}
           }
         },
@@ -40,8 +40,8 @@
         }
       },
       "frameworks": {
-        "net5.0": {
-          "targetAlias": "net5.0",
+        "net8.0": {
+          "targetAlias": "net8.0",
           "dependencies": {
             "Microsoft.Extensions.DependencyInjection": {
               "target": "Package",
@@ -59,18 +59,12 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "downloadDependencies": [
-            {
-              "name": "Microsoft.NETCore.App.Host.win-x64",
-              "version": "[5.0.17, 5.0.17]"
-            }
-          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
